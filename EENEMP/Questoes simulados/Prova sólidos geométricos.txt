@@ -1,0 +1,21 @@
+site: http://exercicios.mundoeducacao.bol.uol.com.br/exercicios-matematica/exercicios-sobre-solidos-geometricos.htm
+      http://exercicios.brasilescola.uol.com.br/exercicios-matematica/exercicios-sobre-planificacao-solidos-geometricos.htm
+      http://soumaisenem.com.br/matematica/conhecimentos-geometricos/solidos-exercicios-parte-i
+
+1- Resposta: c) Prismas são poliedros que possuem duas bases poligonais e todas as faces laterais com formato de paralelogramo.
+2- Resposta:Letra C.
+3- Resposta: Letra d) Um pentágono e cinco triângulos.
+4- Resposta: 	A = pr(g + r)
+		A = 3,14·25·(100 + 25)
+		A = 78,5·(125)
+		A = 9812,5 cm2.
+		Gabarito: Letra A.
+5- Resposta: Gabarito: Letra A.
+6- Resposta: Gabarito: Letra D.
+7- Resposta: Gabarito: Letra E.
+8- Resposta: Gabarito: Letra A.
+9- Resposta: 	VC - vc2 =
+		12³ - 8³ =
+		1 728 -512= 1216 cm3.
+		Gabarito: Letra D.
+10- Resposta: Gabarito: Letra B.

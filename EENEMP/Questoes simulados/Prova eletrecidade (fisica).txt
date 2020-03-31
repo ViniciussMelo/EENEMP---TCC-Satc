@@ -1,0 +1,129 @@
+(Fafi-MG) Dizer que a carga elétrica é quantizada significa que ela:
+a) só pode ser positiva
+b) não pode ser criada nem destruída
+c) pode ser isolada em qualquer quantidade
+d) só pode existir como múltipla de uma quantidade mínima definida
+e) pode ser positiva ou negativa
+ver resposta
+
+
+Alternativa d.
+A carga elétrica só pode existir em quantidades múltiplas da carga elementar e.
+
+
+
+
+
+
+------------
+
+
+
+Questão 2
+(Unitau-SP) Uma esfera metálica tem carga elétrica negativa de valor igual a 3,2 . 10-4 C. Sendo a carga do elétron igual a 1,6 10-19 C, pode-se concluir que a esfera contém:
+a) 2 . 1015 elétrons
+b) 200 elétrons
+c) um excesso de 2. 1015 elétrons
+d) 2 . 1010 elétrons
+e) um excesso de 2 . 1010 elétrons
+ver resposta
+
+
+Q = n.e
+3,2 . 10 -4 = n . 1,6 . 10-19
+n = 3,2 . 10-4
+       1,6 . 10-19
+n = 2 . 1015 elétrons
+Como o corpo tem carga elétrica negativa, ele possui excesso de elétrons, portanto, a resposta correta é a alternativa C.
+
+
+
+------------
+
+Questão 4
+Julgue os itens a seguir:
+1. Um corpo que tem carga positiva possui mais prótons do que elétrons;
+2. Dizemos que um corpo é neutro quando ele possui o mesmo número de prótons e de elétrons;
+3. O núcleo do átomo é formado por elétrons e prótons.
+Estão corretas as afirmativas:
+a) 1 e 2 apenas
+b) 2 e 3 apenas
+c) 1 e 3 apenas
+d) 1, 2 e 3
+e) nenhuma.
+
+-------------------
+
+Afirmativa 1 – correta. Quando um corpo perde elétrons, ele passa a ter maior número de prótons, portanto fica com carga positiva.
+Afirmativa 2 – correta. Os corpos neutros possuem a mesma quantidade de prótons e de elétrons.
+Afirmativa 3 – incorreta. O núcleo atômico é formado por prótons e nêutrons.
+Alternativa correta – A.
+
+
+
+
+
+    Um cosmonauta russo estava a bordo da estação espacial MIR quando um de seus rádios de comunicação quebrou. Ele constatou que dois capacitores do rádio de 3 µF e 7 µF ligados em série estavam queimados. Em função da disponibilidade, foi preciso substituir os capacitores defeituosos por um único capacitor que cumpria a mesma função.
+Qual foi a capacitância, medida em µF, do capacitor utilizado pelo cosmonauta? 
+ a 0,10  
+ b 0,50 
+ c 2,1  
+ d 10  
+ e 21 ´
+
+
+------------
+
+  Uma lâmpada LED (diodo emissor de luz), que funciona com 12 V e corrente contínua de 0,45 A, produz a mesma quantidade de luz que uma lâmpada incandescente de 60 W de potência.
+Qual é o valor da redução da potência consumida ao se substituir a lâmpada incandescente pela de LED?
+ a 54,6 W 
+ b 27,0 W 
+ c 26,6 W 
+ d 5,4 W 
+ e 5,0 W 
+------------------
+
+
+O elemento de armazenamento de carga análogo ao exposto no segundo sistema e a aplicação cotidiana correspondente são, respectivamente,
+ a receptores — televisor.
+ b resistores — chuveiro elétrico.
+ c geradores — telefone celular.
+ d fusíveis — caixa de força residencial.
+ e capacitores — flash de máquina fotográfica.
+
+
+
+
+Mantendo-se as mesmas dimensões geométricas, o fio que apresenta menor resistência elétrica é aquele feito de
+#12;
+ a tungstênio.
+ b alumínio.
+ c ferro.
+ d cobre.
+ e prata.
+
+
+
+
+O princípio de funcionamento desse equipamento é explicado pelo fato de que a
+
+#12;
+#12;
+ a corrente elétrica no circuito fechado gera um campo magnético nessa região.
+ b bobina imersa no campo magnético em circuito fechado gera uma corrente elétrica.
+ c bobina em atrito com o campo magnético no circuito fechado gera uma corrente elétrica.
+ d corrente elétrica é gerada em circuito fechado por causa da presença do campo magnético.
+ e corrente elétrica é gerada em circuito fechado quando há variação do campo magnético.
+
+
+
+
+Deseja-se que o chuveiro funcione em qualquer uma das três posições de regulagem de temperatura, sem que haja riscos de incêndio. Qual deve ser o valor mínimo adequado do disjuntor a ser utilizado?
+
+
+ a 40 A
+ b 30 A
+ c 25 A
+ d 23 A
+ e 20 Ab
+

@@ -1,0 +1,17 @@
+Questão 1
+LETRA “B”
+O perigo da alta voltagem está na quantidade de cargas elétricas que podem danificar tecidos humanos em caso de choque elétrico.
+
+Questão 2
+LETRA “E”
+O tempo que o chuveiro permanece ligado a cada mês (30 dias) pode ser dado por:
+?t = 4 pessoas X 10 min X 2 banhos X 30 dias
+?t = 2400 min ÷ 60 = 40 h
+Sabendo que a energia consumida é o produto do tempo de funcionamento pela potência do equipamento, podemos escrever:
+E = P . ?t
+E = 6 kW. 40H
+E = 240 kWh
+
+Questão 3
+LETRA “B”
+A queda d'água fornece energia cinética à água, que, ao girar as turbinas, proporciona movimento relativo entre bobinas e ímãs, gerando eletricidade por meio do fenômeno da indução eletromagnética.

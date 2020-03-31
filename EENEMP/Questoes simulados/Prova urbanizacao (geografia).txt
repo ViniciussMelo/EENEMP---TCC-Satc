@@ -1,0 +1,103 @@
+Todo mapa apresenta algumas informações essenciais e responde a certas questões. Onde? O quê? Quanto? Essas são algumas perguntas que se pode fazer sobre os elementos que compõem o espaço geográfico e que representam a diversidade dos fenômenos que podem ser cartografados. Considerando o mapa abaixo, assinale a alternativa que indica o método de representação da cartografia temática utilizado para elaborá-lo.
+ a Representações qualitativas.
+ b Representações quantitativas.
+ c Representações ordenadas.
+ d Representações dinâmicas.
+ e Representações estáticas.
+
+
+
+
+No que se refere à coleta e ao registro de informações do Cadastro Territorial Multifinalitário marque a única opção errada: 
+ a Cada parcela recebe uma identificação numérica inequívoca. 
+ b O levantamento cadastral para a identificação geométrica das parcelas territoriais deve ser referenciado ao Sistema Geodésico Brasileiro. 
+ c Será conservada e mantida a inviolabilidade dos marcos vinculados ao Sistema Geodésico Brasileiro, de acordo com as recomendações do IBGE. 
+ d Levantamentos e locações de obras e novos loteamentos devem ser referenciados ao Sistema Geodésico Brasileiro, apoiados nos marcos municipais correspondentes. 
+ e Os vértices que definem os limites de cada parcela devem constituir uma figura geométrica aberta. 
+
+
+
+O Cadastro Técnico Multifinalitário pode ser entendido como um sistema de registro dos elementos espaciais que representam a estrutura urbana, constituído por uma componente geométrica e outra descritiva que lhe conferem agilidade e diversidade no fornecimento de dados para atender a diferentes funções, inclusive a de planejamento urbano. Marque a única opção incorreta sobre o Cadastro Técnico Multifinalitário:
+ a O planejamento urbano é o único uso do Cadastro Técnico Multifinalitário. 
+ b A cobrança de IPTU é a única utilidade do Cadastro Técnico Multifinalitário. 
+ c O Cadastro Técnico Multifinalitário conjuga dados geométricos e alfanuméricos. 
+ d O Cadastro Técnico Multifinalitário é constituído unicamente de mapas.
+ e O Cadastro Técnico Multifinalitário não utiliza base cartográfica.
+
+
+
+
+Analise as afirmativas abaixo e identifique qual não se refere aos coletores eletrônicos de dados utilizados no cadastro imobiliário: 
+ a Avaliação em tempo real de consistência dos dados. 
+ b Cruzamento de informações. 
+ c Formação do banco de dados. 
+ d Controle de produção e produtividade. 
+ e 	. 
+
+
+
+
+
+Marque a única alternativa ERRADA no que diz respeito aos levantamentos cadastrais urbanos poderem empregar métodos clássicos tais como o método ortogonal: 
+ a Empregam-se instrumentos munidos de prisma chamados esquadros de prisma. 
+ b Seus resultados devem ser registrados em croquis de campo, durante as medições. 
+ c Usa um sistema de coordenadas polares (ângulos e distâncias quaisquer). 
+ d Usa a medição de duas distâncias ortogonais, formando triângulos retângulos. 
+ e Usa um sistema de coordenadas retangulares cartesianas.
+
+
+
+
+
+Nos levantamentos cadastrais urbanos também podemos empregar o método de posicionamento polar tradicional. A respeito deste método, a alternativa INCORRETA é: 
+ a Usa um sistema de coordenadas polares. 
+ b Os ângulos podem ser medidos por teodolito. 
+ c As distâncias podem ser medidas por medidores eletrônicos. 
+ d Este método usa apenas medições lineares a trena e balizas. 
+ e Este método usa medição de ângulos e distâncias horizontais.
+
+
+
+
+Os levantamentos cadastrais de propriedades urbanas referem-se à localização dos limites destas e a preparação de desenhos (ou plantas) que mostram estes limites. Para obtenção desta planta ou levantamento de imóvel urbano, marque a única alternativa correta:
+ a Sempre usar um sistema de coordenadas plano-retangulares arbitrárias ou locais. 
+ b Sempre usar escalas pequenas abaixo de 1:100.000, por exemplo. 
+ c Sempre usar escalas médias abaixo de 1/:20.000, por exemplo.
+ d Nunca usar escalas grandes ou maiores que 1:1000.
+ e Se existir uma rede de referência cadastral municipal, por exemplo, devem-se usar coordenadas plano-retangulares oficiais, que podem ser obtidas por intermédio de um rastreio com uso de tecnologia GPS.
+Responder
+
+
+
+
+
+Qual das alternativas abaixo NÃO faz parte do Cadastro Técnico Multifinalitário: 
+ a Coletar e armazenar informações de forma geral do espaço urbano, sem a necessidade de mantê -las atualizadas. 
+ b Implementar e manter atualizado o sistema cartográfico. 
+ c Fornecer informações aos processos de tomada de decisões inerentes ao planejamento e à gestão urbanos. 
+ d Tornar mais confiáveis as transações imobiliárias por meio de uma definição precisa da propriedade imobiliária. 
+ e  Disponibilizar informações armazenadas para os órgãos públicos e para a sociedade em geral.
+
+
+
+
+
+A efetivação da inscrição ou a transferência de nome e endereço no cadastro imobiliário, de acordo com a lei vigente, deve ser feita, a partir da data da escritura definitiva ou compromisso de compra e venda do imóvel, no prazo máximo de:
+ a 45 dias. 
+ b 60 dias. 
+ c 30 dias. 
+ d 90 dias. 
+ e  15 dias.
+Responder
+solicitar comentário
+
+
+
+
+
+A Geografia mobiliza diferentes categorias para a análise do espaço geográfico, dentre as quais destaca-se o território. Raffestin e Souza são exemplos de autores que contribuem com o debate sobre essa categoria. Como elementos comuns à problemática apresentada por esses autores está a compreensão de território como 
+ a área geográfica ocupada por uma população de uma mesma espécie, em um mesmo intervalo de tempo.
+ b limite físico determinado pela jurisprudência estatal, no qual o Estado exerce soberania. 
+ c espaço produzido pelos homens, mediante relações sociais arquitetadas por e a partir de relações de poder. 
+ d porção do espaço ocupado por uma população, que possui os mesmos hábitos culturais. 
+Responder

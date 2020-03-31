@@ -1,0 +1,171 @@
+ Uma pessoa toca no piano uma tecla correspondente à nota mi e, em seguida, a que corresponde a sol. Pode-se afirmar que serão ouvidos dois sons diferentes porque as ondas sonoras correspondentes a essas notas têm:
+a) amplitudes diferentes
+b) frequências diferentes
+c) intensidades diferentes
+d) timbres diferentes
+e) velocidade de propagação diferentes
+
+Cada nota musical possui uma frequência característica, logo, os sons serão diferentes porque as notas possuem frequências distintas.
+
+------
+
+
+Diante de uma grande parede vertical, um garoto bate palmas e recebe o eco um segundo depois. Se a velocidade do som no ar é 340 m/s, o garoto pode concluir que a parede está situada a uma distância aproximada de:
+a) 17 m
+b) 34 m
+c) 68 m
+d) 170 m
+e) 340 m
+
+v = 2?s ÷ ?t
+340 = 2?s ÷ 1
+340 = 2?s
+340 ÷ 2 = ?s
+?s = 170 m
+
+-------
+
+
+
+
+
+A respeito da classificação das ondas, marque a alternativa incorreta:
+a) As ondas classificadas como longitudinais possuem vibração paralela à propagação. Um exemplo desse tipo de onda é o som.
+b) O som é uma onda mecânica, longitudinal e tridimensional.
+c) Todas as ondas eletromagnéticas são transversais.
+d) A frequência representa o número de ondas geradas dentro de um intervalo de tempo específico. A unidade Hz (Hertz) significa ondas geradas por segundo.
+e) Quanto à sua natureza, as ondas podem ser classificadas em mecânicas, eletromagnéticas, transversais e longitudinais.
+
+LETRA “E”
+Os termos longitudinais e transversais referem-se à classificação das ondas quanto à direção de propagação.
+
+----
+
+
+Uma determinada fonte gera 3600 ondas por minuto com comprimento de onda igual a 10 m. Determine a velocidade de propagação dessas ondas.
+a) 500 m/s
+b) 360 m/s
+c) 600 m/s
+d) 60 m/s
+e) 100 m/s
+
+LETRA “C”
+A frequência deve estar em rotações por segundo (Hz). Sabendo que 1 min = 60 s, temos:
+F = 3600 ÷ 60 = 60 Hz
+Sendo assim, temos:
+v = ?.f
+v = 10. 60 = 600 m/s
+
+
+
+-----------
+
+
+
+A respeito das características das ondas, marque a alternativa errada.
+
+a) Ondas sonoras e ondas sísmicas são exemplos de ondas mecânicas.
+
+b) A descrição do comportamento das ondas mecânicas é feita pelas leis de Newton.
+
+c) As ondas eletromagnéticas resultam da combinação de um campo elétrico com um campo magnético.
+
+d) A descrição das ondas eletromagnéticas é feita por meio das equações de Maxwell.
+
+e) Quanto à direção de propagação, as ondas geradas em um lago pela queda de uma pedra na água são classificadas como tridimensionais
+
+
+LETRA “E”
+
+As ondas geradas em um lago pela queda de uma pedra na água são classificadas como bidimensionais, pois existem apenas sobre a superfície da água.
+
+-------------------
+
+
+O som mais grave que o ouvido humano é capaz de ouvir possui comprimento de onda igual a 17 m. Sendo assim, determine a mínima frequência capaz de ser percebida pelo ouvido humano.
+
+Dados: Velocidade do som no ar = 340 m/s
+
+a) 10 Hz
+
+b) 15 Hz
+
+c) 17 Hz
+
+d) 20 Hz
+
+e) 34 Hz
+
+
+LETRA “D”
+
+A partir da equação da velocidade de uma onda, podemos escrever que:
+
+v = ? . f
+
+f = v ÷ ?
+
+f = 340 ÷ 17
+
+f = 20 Hz
+
+
+
+
+----------------------
+
+
+
+ Um pulso ondulatório senoidal é produzido em uma extremidade de uma corda longa e se propaga em toda a sua extensão. A onda possui uma freqüência de 50 Hz e comprimento de onda 0,5m. O tempo que a onda leva para percorrer uma distância de 10m na corda vale, em segundos:
+a) 0,2
+b) 0,4
+c) 0,6
+d) 0,7
+e) 0,9
+
+
+
+---------
+
+
+
+Considere as seguintes afirmações sobre os fenômenos ondulatórios e suas características:
+I. A difração ocorre apenas com ondas sonoras.
+II. A interferência ocorre apenas com ondas eletromagnéticas.
+III. A polarização ocorre apenas com ondas transversais.
+Quais estão corretas?
+a) Apenas I
+b) Apenas II
+c) Apenas III
+d) Apenas I e II
+e) I, II e III.
+
+
+
+---------
+
+
+As notas musicais podem ser agrupadas de modo a formar um conjunto. Esse conjunto pode formar uma escala musical. Dentre as diversas escalas existentes, a mais difundida é a escala diatônica, que utiliza as notas denominadas dó, ré, mi, fá, sol, lá e si. Essas notas estão organizadas em ordem crescente de alturas, sendo a nota dó a mais baixa e a nota si a mais alta.
+Considerando uma mesma oitava, a nota si é a que tem menor 
+ a amplitude. 
+ b frequência. 
+ c velocidade. 
+ d intensidade.
+ e comprimento de onda. 
+
+
+----
+
+
+Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro. 
+
+Essa diferenciação se deve principalmente ao(à)
+
+ a intensidade sonora do som de cada instrumento musical.
+ b potência sonora do som emitido pelos diferentes instrumentos musicais.
+ c diferente velocidade de propagação do som emitido por cada instrumento musical.
+ d timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.
+ e altura do som, que possui diferentes frequências para diferentes instrumentos musicais.
+
+
+

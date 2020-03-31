@@ -1,0 +1,53 @@
+body {
+	padding:0;
+	margin:0;
+	background-color
+}
+
+.menu ul {
+	list-style:none;
+	margin:0;
+	
+	
+}
+
+#titulosimulado {
+	color:white;
+	font-size:50px;
+}
+.menu ul li {
+	padding:15px;
+	left:41%;
+	position:relative;
+	width:200px;
+	background-color:#34495E;
+	border-top:1px solid #BDC3C7; 
+	text-align:center;
+	border:1px solid #BDC3C7;
+	cursor:pointer;
+	
+}
+.menu ul li:hover {
+	background-color: #2ECC71;
+}
+
+.menu ul ul {
+	opacity:0;
+	visibility:hidden;
+	transition:all 0.3s;
+	position:absolute;
+	left:45%;
+	
+	top:-2%;
+	
+}
+.menu ul li:hover > ul {
+	opacity:1;
+	visibility:visible;
+	
+	
+}
+.menu ul li a {
+	color:#fff;
+	text-decoration:none;
+}

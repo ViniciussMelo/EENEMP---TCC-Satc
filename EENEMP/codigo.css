@@ -1,0 +1,82 @@
+#tudo{
+	text-align:center;
+}
+#titulo{
+	text-align: center;
+	height: 80px;
+	width:1000px;
+	margin-left:180px;
+	background-color:#3CB371;
+    padding-top:1px;
+ border:1px solid black;
+ border-radius:3px;
+ text-shadow:1px 1px white;
+ font-family:verdana;
+ padding-left:20px;
+
+	
+}
+
+#tituloR {
+    text-align: center;
+	height: 80px;
+	width:1000px;
+	margin-left:180px;
+	background-color:#FF3030;
+    padding-top:1px;
+ border:1px solid black;
+ border-radius:3px;
+ text-shadow:1px 1px white;
+ font-family:verdana;
+ padding-left:20px;
+}
+#questoes{
+    margin-top:20px;
+	background-color:#D3D3D3;
+	border:3px solid black;
+	height:96%;
+	width:1000px;
+	margin-left:180px;
+    font-family:arial;
+    padding-left:20px;
+
+}
+
+#questoesR {
+
+  background-color:#D3D3D3;
+  border:3px solid black;
+  font-family:arial;
+  padding-left:20px;
+  margin-top:20px;
+  width:1000px;
+  margin-left:177px;
+
+ }
+#enviar{
+	display:inline-block;
+	padding: 8px 10px;
+	background:#3CB371;
+	color: white;
+	font-weight:lighter;
+	font-size:16px;
+	border:0;
+	border-radius:5px;
+}
+#enviar:hover{background:#FF3030; cursor:pointer;}
+#respostas{
+	margin-left:450px;
+	background-color:#D3D3D3;
+	height:390px;
+	width:500px;
+	border:3px solid black;
+    border-radius:3px;
+    padding-left:10px;
+
+}
+h2{
+	font-size:25px;
+}
+h3{
+	font-size:15px;
+}

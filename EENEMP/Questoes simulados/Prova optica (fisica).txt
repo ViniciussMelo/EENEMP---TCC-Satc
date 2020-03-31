@@ -1,0 +1,180 @@
+Entre as alternativas a seguir, escolha aquela que contém apenas fontes primárias de luz.
+
+a) Fósforo, Sol, Lua
+
+b) Lua, Júpiter, Sol
+
+c) Vela acesa, Sol, Lua
+
+d) Estrelas, Fósforo aceso, Sol
+
+e) Estrelas, pilha de lanterna e Sol.
+
+As fontes primárias de luz são aqueles que produzem luz própria. Algumas fontes, como fósforos e lâmpadas, são fontes primárias desde que estejam acesas.
+
+----------------------------------
+
+
+
+
+Indique a alternativa que explica de forma correta a diferença entre as fontes de luz fluorecentes e fosforescentes.
+
+a) As fluorecentes emitem luz a partir da excitação do flúor em seu interior, e as fosforescentes funcionam pela excitação do fósforo.
+
+b) As fluorecentes emitem luz durante a ação de um agente excitador, e as fosforescentes emitem radiações ultravioleta.
+
+c) As fluorecentes emitem luz durante a ação de um agente excitador, e as fosforescente emitem luz mesmo após o fim da ação do excitador.
+
+d) Lâmpadas fluorecentes funcionam a partir da excitação de gases como o argônio, e materiais fosforescentes funcionam por meio da excitação do fósforo.
+
+e) Os termos fluorecentes e fosforescentes são sinônimos.
+
+-------------
+
+
+As afirmações a seguir tratam dos conceitos básicos de Óptica Geométrica. Indique a questão incorreta.
+
+a) Raios de luz são setas orientadas que representam a luz e são classificados como paralelos, convergentes e divergentes.
+
+b) A Óptica Geométrica estuda a natureza física da luz.
+
+c) Fontes secundárias de luz são aquelas que não produzem luz própria. A Lua é um exemplo de fonte secundária.
+
+d) Quando um feixe luminoso muda de meio de propagação, ocorre o fenômeno óptico da refração.
+
+e) A Óptica Geométrica estuda os fenômenos com base em experimentos e não analisa a natureza física da luz, mas a interpreta como setas orientadas denominadas de raios de luz.
+
+
+As fontes de luz do tipo fluorecente funcionam enquanto houver ação do elemento excitador, que, geralmente, é o argônio. Fontes fosforescentes emitem luz mesmo após o fim da ação do excitador. Seu funcionamento baseia-se na energia potencial química.
+
+-----------------------
+
+
+
+Uma fonte secundária de luz que se apresenta na cor azul possui tal cor porque:
+
+a) refrata a luz incidente.
+
+b) reflete a luz azul.
+
+c) difrata a luz azul.
+
+d) absorve a luz azul.
+
+e) emite luz azul.
+
+
+Fontes secundárias refletem a luz incidente. Se o objeto é percebido na cor azul, é porque ele possui a capacidade de refletir a luz dessa co
+
+
+
+---------------------------
+
+
+
+Marque a alternativa correta a respeito dos fenômenos da reflexão, refração e absorção da luz.
+a) Um único raio de luz incidente não pode sofrer os três fenômenos ópticos ao mesmo tempo.
+b) As leis da reflexão se aplicam tanto à reflexão regular quanto à reflexão difusa.
+c) As leis da refração só podem ser aplicadas no caso da refração difusa.
+d) A reflexão de um espelho plano é difusa.
+e) Todas as alternativas anteriores estão incorretas.
+
+
+
+
+) ERRADA. Um único raio de luz pode sofrer, ao mesmo tempo, mais de um fenômeno óptico.
+b) ERRADA. As leis da reflexão são aplicadas para a reflexão regular da luz.
+c) ERRADA. As leis da refração são aplicadas para a refração regular da luz.
+d) ERRADA. A reflexão de um espelho plano é regular.
+e) CORRETA.
+
+
+
+-------------
+
+
+ “Quando dois ou mais raios de luz vindos de fontes diferentes se cruzam, seguem suas trajetórias de forma independente, como se os outros não existissem.” Este texto caracteriza:
+
+a) O princípio da reversibilidade dos raios de luminosos;          
+
+b) O princípio da propagação retilínea da luz;
+
+c) A refração da luz;          
+
+d) O princípio da independência dos raios luminosos;           
+
+e) A polarização da luz.
+
+
+
+---------------
+
+
+
+Dos objetos citados a seguir, assinale aquele que seria visível em uma sala perfeitamente escura.
+a) um espelho;          
+
+b) qualquer superfície clara;          
+
+c) um fio aquecido ao rubro;          
+
+d) uma lâmpada desligada;
+e) um gato preto
+
+
+-------------------
+
+
+
+
+O menor tempo possível entre um eclipse do Sol e um eclipse da Lua é de aproximadamente:
+
+a) 12 horas         
+
+b) 24 horas         
+
+c) 1 semana         
+
+d) 2 semanas         
+
+e) 1 mês
+
+
+---------------------
+
+
+ Admita que o Sol subitamente “morresse”, ou seja, sua luz deixasse de ser emitida. Passadas 24h, um eventual sobrevivente, olhando para o céu sem nuvens, veria:
+
+a) a Lua e as estrelas     
+
+b) somente a Lua     
+
+c) somente estrelas     
+
+d) uma completa escuridão     
+
+e) somente os planetas do sistema solar
+
+
+
+
+
+------------
+
+
+
+
+ A formação de sombra evidencia que:
+
+a) a luz se propaga em linha reta     
+
+b) a velocidade da luz não depende do referencial     
+
+c) a luz sofre refração     
+
+d) a luz é necessariamente fenômeno de natureza corpuscular     
+
+e) a temperatura do obstáculo influi na luz que o atravessa
+
+
+

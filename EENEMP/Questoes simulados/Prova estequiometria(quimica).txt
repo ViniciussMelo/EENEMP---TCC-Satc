@@ -1,0 +1,194 @@
+1-(PUC-MG) Fosgênio, COCl2, é um gás venenoso. Quando inalado, reage com a água nos pulmões para produzir ácido clorídrico (HCl), que causa graves danos pulmonares, levando, finalmente, à morte: por causa disso, já foi até usado como gás de guerra. A equação química dessa reação é:
+
+
+COCl2 + H2O ? CO2 + 2 HCl
+
+Se uma pessoa inalar 198 mg de fosgênio, a massa de ácido clorídrico, em gramas, que se forma nos pulmões, é igual a:
+
+a) 1,09 . 10-1. 
+b) 1,46 . 10-1.  certa
+c) 2,92 . 10-1.
+
+d) 3,65 . 10-2.
+
+e) 7,30 . 10-2.
+
+
+1º Passo: Descobrir as massas molares, sabendo que as massas molares em g/mol de cada elemento são: C = 12, O = 16, Cl = 35,5 e H = 1.
+
+MCOCl2 = 12 + 16 + 2 . 35,5 = 99 g/mol
+MHCl = 1 + 35,5 = 36,5 g/mol
+
+2º Passo: Relacionar as massas molares das duas substâncias na equação, lembrando que a proporção estequiométrica entre elas está de 1 : 2. Como a massa tem que ser dada em gramas, temos que 198 mg de fosgênio é igual a 0,198 g:
+
+99 g de COCl2 ----------- 2 . 36,5 g de HCl
+0,198 g de COCl2 ------- x
+99 x = 73 . 0,198
+x = 14,454
+          99
+
+x = 0,146 g = 1,46 . 10-1g.
+
+---------------------------
+Mackenzie-SP)
+
+CH4(g) + 2 O2(g) ? CO2(g) + 2 H2O(g)
+
+O volume de CO2, medido a 27ºC e 1atm., produzido na combustão de 960,0 g de metano, é:
+
+a) 60,0 L
+
+b) 1620,0 L
+
+c) 1344,0 L
+
+d) 1476,0 L  certa
+
+e) 960,0 L
+
+Dados:
+
+massa molar do CH4 = 16,0 g/mol
+
+constante universal dos gases: R = 0,082 atm.L/mol.K
+
+
+
+Alternativa “d”.
+
+* Descobrir o volume de CH4 usado, sabendo que 1 mol de qualquer gás sempre ocupa um volume de 22,4 L (nas CNTP – Condições Normais de Temperatura e Pressão, em que a pressão é 1 atm e a temperatura é 273 K).
+
+-------------------
+
+Qual é a quantidade de matéria de gás oxigênio necessária para fornecer 17,5 mol de água, H2O(v), na queima completa do acetileno, C2H2(g)?
+
+a) 43,75 mol  certa
+
+b) 2 mol
+
+c) 17,5 mol
+
+d) 35 mol
+
+e) 27,2 mol
+
+Escrevendo a equação balanceada da reação para ver a proporção estequiométrica:
+
+2 C2H2(g) +5 O2(g) ? 4 CO2(g) + 2 H2O(v)
+
+ 
+
+5 mol de O2(g) ------ 2 mol de H2O(v)
+x----------------------17,5 mol de H2O(v)
+
+x = 17,5 . 5 / 2
+x = 43,75 mol de O2(g)
+
+
+
+
+
+
+------------------------
+
+Quantas moléculas de água, H2O(v), são obtidas na queima completa do acetileno C2H2(g), ao serem consumidas 3,0 . 1024 moléculas de gás oxigênio?
+
+a) 120 . 1024
+
+b) 0,12 . 1023
+
+c) 12 . 1024
+
+d) 1,2 . 1023
+
+e) 1,2 . 1024   certa
+
+Escrevendo a equação balanceada da reação para ver a proporção estequiométrica:
+
+2 C2H2(g) +5 O2(g) ? 4 CO2(g) + 2 H2O(v)
+
+-------------------------------------
+
+
+4. Urânio - 238, espontaneamente emite partículas ‘; o
+fragmento restante, para cada partícula emitida, tem
+número atômico 90. Sendo assim, o número de massa do
+fragmento produzido é igual a
+a) 237
+b) 236
+c) 235
+d) 234 cetta
+e) 233
+
+
+-----------------------
+
+
+5. PUC-PR Em 100 gramas de alumínio, quantos átomos
+deste elemento estão presentes?
+Dados: M(Al) = 27 g/mol
+1 mol = 6,02 x 1023 átomos
+a) 3,7 x 1023 d) 2,22 x 1024 certa
+b) 27 x 1022 e) 27,31 x 1023
+c) 3,7 x 1022
+
+
+
+6. PUC-RJ Qual a massa de enxofre, em quilogramas,
+necessária para a obtenção de
+2.000 kg de ácido sulfúrico, supondo um rendimento de
+100%?
+a) 100 kg b) 128 kg
+c) 200 kg d) 320 kg
+e) 640 kg certa	
+
+----------------------
+
+
+
+
+
+Isótopos radiativos de iodo são utilizados
+no diagnóstico e tratamento de problemas da tireóide, e
+são, em geral, ministrados na forma de sais de iodeto. O
+número de prótons, nêutrons e elétrons no isótopo 131 do
+iodeto modelo …ƒI­¢¤¢ são, respectivamente:
+a) 53, 78 e 52
+b) 53, 78 e 54 certa
+c) 53, 131 e 53
+d) 131, 53 e 131
+e) 52, 78 e 53
+
+
+-----------------
+
+O estanho é usado na composição de
+ligas metálicas como bronze (Sn-Cu) e solda metálica (SnPb).
+O estanho metálico pode ser obtido pela reação do
+minério cassiterita (SnO‚) com carbono, produzindo
+também monóxido de carbono. Supondo que o minério seja
+puro e o rendimento da reação seja de 100%, a massa, em
+quilogramas, de estanho produzida a partir de 453kg de
+cassiterita com 96kg de carbono é
+a) 549.
+b) 476.
+c) 357. certa
+d) 265.
+e) 119.
+---------------
+
+
+
+ (Ufscar 2003) O alumínio metálico é obtido pela
+redução eletrolítica da bauxita, na presença da criolita que
+age como fundente, abaixando o ponto de fusão da bauxita
+de 2600°C para cerca de 1000°C. Considerando que a
+bauxita é composta exclusivamente por óxido de alumínio,
+AØ‚Oƒ, a massa em toneladas de alumínio metálico obtida a
+partir de 51,0 toneladas de bauxita é de
+a) 23,5.
+b) 25,5.
+c) 27,0.  certa
+d) 32,0.
+e) 39,3.
+

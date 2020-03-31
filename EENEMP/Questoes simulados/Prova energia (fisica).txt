@@ -1,0 +1,165 @@
+ Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s. 
+
+Disponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado). 
+
+Supondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:
+
+ a 5,4x102 J
+ b 6,5x103 J
+ c 8,6x103 J
+ d 1,3x104 J
+ e 3,2x104 J
+
+
+
+Para diminuir os impactos ambientais e o apelo social causado pela construção das grandes hidrelétricas, o governo brasileiro nos últimos anos optou pela construção das PCHs (Pequenas Centrais Hidrelétricas), distribuídas por todo o território nacional.
+Alternativa correta: letra B
+
+
+
+
+----------------
+
+Embora as condições citadas sejam diferentes do cotidiano, o processo de acumulação de energia descrito é análogo ao da energia
+
+
+ a armazenada em um carrinho de montanha russa durante o trajeto.
+ b armazenada na água do reservatório de uma usina hidrelétrica.
+ c liberada na queima de um palito de fósforo.
+ d gerada nos reatores das usinas nucleares.
+ e acumulada em uma mola comprimida.
+
+Os dois recursos mais utilizados como fontes renováveis de energia no Brasil são a água (hidroeletricidade) e a biomassa (biocombustíveis).
+Já os recursos não renováveis mais empregados no Brasil são o petróleo e o gás natural.
+Alternativa correta: letra C
+
+-------------
+
+
+
+
+
+Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustíveis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo? 
+
+ a Aumentar a quantidade de combustível para queima na usina de força.
+ b Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.
+ c Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.
+ d Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.
+ e Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias.
+
+
+
+Na região da Amazônia, em algumas áreas, o relevo é muito plano e, portanto, pouco acidentado. Isso dificulta a construção de barragens, que precisam de um relevo mais adequado para aumentar a velocidade de queda da água, o que não ocorre nas planícies fluviais das bacias sedimentares amazônicas.
+Alternativa correta: letra D
+
+--------------------
+
+
+
+
+
+
+
+
+
+Se fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capacidade de geração da usina? 
+
+ a Reduzir a quantidade de combustível fornecido à usina para ser queimado.
+ b Reduzir o volume de água do lago que circula no condensador de vapor.
+ c Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira.
+ d Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.
+ e Usar o calor liberado com os gases pela chaminé para mover um outro gerador.
+
+
+
+
+A relação entre eletricidade e disponibilidade de água no Brasil explica-se pelo fato de, historicamente, a matriz hidrelétrica ser a predominante no país. Assim, em caso de secas, há comprometimento do funcionamento das turbinas.
+Alternativa correta: letra A
+
+--------------------------
+
+
+
+
+
+A construção das grandes usinas hidrelétricas foi uma tônica central no âmbito da produção de eletricidade e fontes de energia do Brasil. No entanto, em virtude das ressalvas, polêmicas e protestos contra os impactos ambientais gerados, o governo brasileiro vem adotando alternativas a essa estratégia.
+Além da busca por outras matrizes energéticas, uma medida adotada foi:
+a) a substituição das hidrelétricas antigas por construções mais modernas e com efeitos atenuantes.
+b) a construção das PCHs (Pequenas Centrais Hidrelétricas), com menor impacto ambiental.
+c) a migração das centrais para áreas de baixa densidade demográfica, como a região norte do país.
+d) a substituição de todos os equipamentos existentes para aumentar a eficiência nos sistemas de produção e distribuição.
+e) a difusão de campanhas de grande apelo para a redução em massa do consumo de eletricidade, diminuindo a demanda.
+
+
+
+
+
+
+“Entre as grandes obras, a usina de Balbina, construída no meio da bacia sedimentar amazônica, a aproximadamente 200 km ao norte de Manaus, foi a que causou os maiores prejuízos. (…) Sua represa, que inundou 2594 km² da Floresta Amazônica, produz somente 250 MW, energia que abastece apenas 50% das necessidades de consumo de Manaus. Em suma, Balbina possui uma represa com dimensões comparáveis às de Tucuruí, mas a energia que pode produzir é praticamente irrisória (17 vezes menor que Tucuruí)”.
+SENE, E.; MOREIRA, J. C. Geografia Geral e do Brasil: Espaço Geográfico e Globalização. São Paulo: Scipione, 2010. p.521.
+O fator geográfico que explica a menor produtividade da usina de Balbina em relação à de Tucuruí é:
+a) ausência de cursos d'água volumosos
+b) vazão fluvial muito intensa
+c) oscilações climáticas na região Norte
+d) edificação da barragem em relevo plano
+e) infiltração da água no ambiente sedimentar
+
+
+
+
+
+“Águas de março definem se falta luz este ano”. Esse foi o título de uma reportagem em jornal de circulação nacional, pouco antes do início do racionamento do consumo de energia elétrica, em 2001. No Brasil, a relação entre a produção de eletricidade e a utilização de recursos hídricos, estabelecida nessa manchete, se justifica porque:
+a) a geração de eletricidade nas usinas hidrelétricas exige a manutenção de um dado fluxo de água nas barragens.
+b) o sistema de tratamento da água e sua distribuição consomem grande quantidade de energia elétrica.
+c) a geração de eletricidade nas usinas termelétricas utiliza grande volume de água para refrigeração.
+d) o consumo de água e de energia elétrica utilizadas na indústria compete com o da agricultura.
+e) é grande o uso de chuveiros elétricos, cuja operação implica abundante consumo de água.
+
+
+
+Apesar de um relativo declínio nas últimas décadas, esse recurso natural continua sendo a mais importante fonte de energia da atualidade. Trata-se de uma fonte não renovável e que atua na produção de eletricidade, combustíveis e na constituição de matérias-primas para inúmeros produtos, como a borracha sintética e o plástico.
+A descrição acima refere-se:
+a) ao gás natural
+b) ao xisto betuminoso
+c) à água
+d) ao petróleo
+e) ao carvão mineral
+
+
+
+
+O Brasil é um dos países que apresentam os maiores potenciais hidrelétricos do mundo, o que justifica, em partes, o fato de esse tipo de energia ser bastante utilizado no país. As usinas hidrelétricas são bastante elogiadas por serem consideradas ambientalmente mais corretas do que outras alternativas de produção de energia, mas vale lembrar que não existem formas 100% limpas de realizar esse processo.
+Assinale a alternativa que indica, respectivamente, uma vantagem e uma desvantagem das hidroelétricas.
+a) não emitem poluentes na atmosfera; porém não são muito eficientes.
+b) são ambientalmente corretas; porém interferem diretamente no efeito estufa.
+c) a produção pode ser controlada; porém os custos são muito elevados.
+d) ocupam pequenas áreas; porém interferem no curso dos rios.
+e) a construção é rápida; porém duram pouco tempo.
+
+
+
+fontes não renováveis de energia: petróleo, carvão mineral, gás natural, xisto betuminoso, urânio, entre outros.
+
+-----------------------
+
+
+
+São consideradas fontes de energia renováveis todo recurso que tem a capacidade de se refazer ou não é limitado. Com base nessa informação, abaixo estão listadas fontes de energias renováveis, exceto:
+a) energia hidrelétrica
+b) gás natural
+c) energia eólica
+d) energia solar
+e) biocombustíveis
+
+
+Letra D
+O petróleo é a fonte de energia mais utilizada 	no mundo. Embora seja uma energia não renovável e, portanto, finita, as economias de vários países ainda estão baseadas nesse minério fóssil.
+
+
+------------------------------
+
+<h2><font color="#008000"><b><i>Resolução:</p></b></i></h2></font>
+<p>Os dois recursos mais utilizados como fontes renováveis de energia no Brasil são a água (hidroeletricidade) e a biomassa (biocombustíveis).
+Já os recursos não renováveis mais empregados no Brasil são o petróleo e o gás natural.
+Alternativa correta: letra C
+<br><br>

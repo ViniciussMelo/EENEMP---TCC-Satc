@@ -1,0 +1,59 @@
+
+#buscarq{
+
+ border:3px solid black;
+ border-radius:5px;
+ position:absolute;
+ text-align:center;
+ left:25%;
+ right:24%;
+ top:35%;
+ bottom:10%;
+ font-family:arial;
+ background-color:#B5B5B5;
+ padding-top:100px;
+ padding-left:170px;
+}
+
+.resultado {
+          height:500px;
+}
+
+#pesquisar {
+    background-color:#FFB90F;
+    font-family:verdana;
+    color:white;
+
+}
+
+#tit { margin-right:200px;color:black;}
+
+#pesquisar:hover {
+   background-color:#FFD700;
+   }
+
+#buscarq input {
+     border:1px solid grey;
+     height:40px;
+     border-radius:3px;
+     }
+table{
+	margin-top:10px;
+	border:1px solid white;
+	border-radius:5px;
+}
+table thead td{
+	width:300px;
+	background-color:#333;
+	color: #FFF;
+	height: 40px;
+	text-align:center;
+}
+table tbody td{
+	width:300px;
+	height: 40px;
+	text-align:center;
+}
+table td{
+	border:1px solid white;
+}

@@ -1,0 +1,87 @@
+Quando um elemento X emite partícula beta, transforma-se em Y. Os elementos X e Y são:
+
+a) isótopos
+b) isóbaros
+c) alótropos
+d) isótonos
+e) isoeletrônicos
+-----------------------
+02. (FEI) A bomba de hidrogênio é um exemplo de reação nuclear:
+
+a) do tipo fissão;
+b) onde ocorre apenas emissão de raios alfa;
+c) onde ocorre apenas emissão de raios beta;
+d) do tipo fusão;
+e) onde ocorre apenas emissão de raios gama.
+----------------------
+03. (ITA) O que acontece com o número de massa e com o número atômico de um núcleo instável se ele emite uma partícula beta?
+
+Número de Massa            Número Atômico
+
+a) sem alteração                 aumenta de 1 unidade
+b) sem alteração                 diminui de 1 unidade
+c) diminui de 1 unidade        sem alteração
+d) aumenta de 1 unidade      sem alteração
+e) diminui de 1 unidade        aumenta de 1 unidade
+---------------------------
+04. (UNIUBE – MG) Os valores da massa e carga de uma partícula beta negativa (b-) indicam que esta é idêntica ao:
+
+a) átomo de hidrogênio
+b) átomo de hélio
+c) próton
+d) nêutron
+e) elétron
+---------------------------
+05. (UFSC) Responda com relação às afirmações:
+
+I.   Uma reação química ocorre na eletrosfera do átomo.
+II.  As partículas b têm massa igual a 4.
+III. As reações nucleares ocorrem na eletrosfera do átomo.
+IV. Os raios g não são defletidos num campo elétrico.
+V.  As partículas a têm a carga igual a +2.
+
+As afirmações corretas são:
+
+a) I, II e IV
+b) III, IV e V
+c) II, III e V
+d) I, IV e V
+e) II, IV e V
+------------------------
+06. (MACK) Assinale a alternativa incorreta.
+
+Quando um elemento radioativo emite um raio:
+
+a) a, seu número atômico diminui de duas unidades;
+b) b, seu número atômico aumenta de uma unidade;
+c) g, ocorre emissão de onda eletromagnética;
+d) a, seu número atômico diminui de quatro unidades;
+e) b, seu número atômico aumenta de duas unidades;
+------------------------
+07. Quando nêutrons atingem núcleos de átomos de nitrogênio com número de massa 14, há formação de átomos de carbono com o mesmo número de massa que o dos núcleos bombardeados. Qual a equação nuclear completa dessa reação?
+
+Nos atômicos: C = 6, N = 7
+--------------------------
+08. (MED. SANTOS) Rutherford baseou sua Teoria Atômica em experiência na qual as partículas a de um feixe incidente sobre uma placa de ouro:
+
+a) não eram desviadas.
+b) eram desviadas na razão 1 : 1.
+c) eram desviadas na razão 1 : 10.
+d) eram desviadas na razão 1 : 100.
+e) eram desviadas na razão 1 : 10000.
+----------------
+09. (UnB) Os raios catódicos são:
+
+a) constituídos de prótons
+b) constituídos de elétrons
+c) constituídos de nêutrons
+d) constituídos de prótons, nêutrons e elétrons
+d) n.d.a.
+--------------------------
+10. A Mecânica Quântica explica ou permite previsões de todas, exceto de uma das seguintes características dos átomos. Identifique a exceção:
+
+a) a probabilidade de um elétron estar em uma dada região em certo instante.
+b) os níveis de energia que o elétron pode ocupar.
+c) a simetria geral dos orbitais eletrônicos.
+d) as freqüências de luz absorvidas ou emitidas por átomos gasosos.
+e) o caminho ou trajetória dos elétrons.
